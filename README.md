@@ -7,4 +7,8 @@ Mobil uygulama kelime bazlı çeviri yapmaktadır.
 Programın içinde test amaçlı 4 kelime verilmiştir ve yalnızca bunların karşılığı sağlanmaktadır. bunlar
 araba=car / ev=home / anahtar=key / sayac=counter şeklinde tanımlanmıştır daha fazla tanımlama yapılması mümkündür.
 
+![spin](https://user-images.githubusercontent.com/64356266/110778940-095f7480-8274-11eb-8f69-e29f2cd672b2.jpg)
+
+![spin2](https://user-images.githubusercontent.com/64356266/110778956-0d8b9200-8274-11eb-8e3d-a305626f3e49.jpg)
+
 web sitem: https://unsteknoloji.com/
