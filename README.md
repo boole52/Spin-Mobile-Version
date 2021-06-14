@@ -12,6 +12,6 @@ araba=car / ev=home / anahtar=key / sayac=counter şeklinde tanımlanmıştır d
 ![spin2](https://user-images.githubusercontent.com/64356266/110778956-0d8b9200-8274-11eb-8e3d-a305626f3e49.jpg)
 
 
-Backend: https://github.com/boole52/Spin-Mobile-Version/tree/main/Spin_BooleTHT/app/src/main/java/com/example/spin_booletht
+Backend: https://github.com/boole52/Spin-Mobile-Version/blob/main/Spin_BooleTHT/app/src/main/java/com/example/spin_booletht/activity2.java
 
 
