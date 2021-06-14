@@ -15,4 +15,3 @@ araba=car / ev=home / anahtar=key / sayac=counter şeklinde tanımlanmıştır d
 Backend: https://github.com/boole52/Spin-Mobile-Version/tree/main/Spin_BooleTHT/app/src/main/java/com/example/spin_booletht
 
 
-web sitem: https://unsteknoloji.com/
