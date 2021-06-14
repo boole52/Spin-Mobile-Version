@@ -46,7 +46,7 @@ public class activity2 extends MainActivity {
         provisionsParts[3]="counter";
 
     }
-    public int SearchSerial(String[] item , String[] array,String[] degisen )
+    public int SearchSerial(String[] item , String[] array)
     {
 
         for (int i = 0; i < array.length; i++)
@@ -60,7 +60,7 @@ public class activity2 extends MainActivity {
         }
         return -1;
     }
-    public int provisionsProvide(String[] item, String[] array,String[] degisen)
+    public int provisionsProvide(String[] item, String[] array)
     {
 
         for (int i = 0; i < array.length; i++)
@@ -86,8 +86,8 @@ public class activity2 extends MainActivity {
 
             System.out.println("Counter: "+Counter);
             for (String j :Pieces) {
-                Where=SearchSerial(searchedParts,Pieces,provisionsParts);
-                provisionsWhere=provisionsProvide(searchedParts,Pieces,provisionsParts);
+                Where=SearchSerial(searchedParts,Pieces);
+                provisionsWhere=provisionsProvide(searchedParts,Pieces);
                 if(Where==-1)
                 {
                     //Debug!!!
